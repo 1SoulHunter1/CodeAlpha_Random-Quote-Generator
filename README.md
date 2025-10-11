@@ -59,7 +59,7 @@ Make sure you have the Flutter SDK installed on your machine.
    flutter run
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/1SoulHunter1/Your-Repository-Name/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/1SoulHunter1/CodeAlpha_Random-Quote-Generator/issues).
 
 ## 📜 Acknowledgements
 This project was developed as a task for the virtual internship program provided by CodeAlpha.
