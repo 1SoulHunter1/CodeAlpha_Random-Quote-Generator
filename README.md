@@ -38,7 +38,7 @@ Make sure you have the Flutter SDK installed on your machine.
 
 1. **Clone the repo**
    ```sh
-   git clone ([https://github.com/your-username/your-repository-name.git](https://github.com/1SoulHunter1/CodeAlpha_Random-Quote-Generator.git))
+   git clone https://github.com/1SoulHunter1/CodeAlpha_Random-Quote-Generator.git
    
 2. **Navigate to the project directory**
    ```sh
