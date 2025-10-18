@@ -42,7 +42,7 @@ Make sure you have the Flutter SDK installed on your machine.
    
 2. **Navigate to the project directory**
    ```sh
-   cd quote_generator
+   cd CodeAlpha_Random-Quote-Generator
    
 3. **Install dependencies**
    ```sh
